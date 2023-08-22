@@ -30,7 +30,7 @@ MIPA
  - Event Remaja Islam ➜ Treasurer
    
 -----
-#### Another thing about me
+#### Another things about me
 -----
 ![Avatar:](<makanan kesukaan.png>) Makanan kesukaan: Burger, Mie  
 ![Avatar:](hobi.png) Hobi: Mendengarkan Musik  
