@@ -3,7 +3,7 @@ Perencanaan produk web GIS dan Git
 
 Nama             : Maureen Arsa Sanda Cantika  
 NIM              : 22/496535/SV/20972  
-Kelas            : Pemrograman Web (A)
+Kelas            : Pemrograman Web (A)  
 Akun Instagram   :  
 ![Avatar:](AkunInstagram.png)
 
